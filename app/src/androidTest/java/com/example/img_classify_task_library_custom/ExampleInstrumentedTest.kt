@@ -1,4 +1,4 @@
-package com.example.horse_human_classify
+package com.example.img_classify_task_library_custom
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

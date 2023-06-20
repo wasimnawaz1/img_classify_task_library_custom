@@ -1,4 +1,4 @@
-package com.example.horse_human_classify
+package com.example.img_classify_task_library_custom
 
 import org.junit.Test
 
